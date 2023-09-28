@@ -1,0 +1,18 @@
+/* Import Tailwind CSS */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Styles for the Create Product view */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.form-input {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Add more styles as needed for this view */
